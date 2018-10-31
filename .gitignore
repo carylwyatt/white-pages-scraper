@@ -1,0 +1,7 @@
+_site/
+
+#vim temp files#
+*~
+*.swp
+*.swo
+*.swn
